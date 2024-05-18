@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio2024/static/css/main.c53bed01.css",
+    "main.js": "/portfolio2024/static/js/main.de2512fa.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio2024/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio2024/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.png": "/portfolio2024/static/media/home-main.15b2b6d86f7d7e641c10.png",
+    "static/media/food.png": "/portfolio2024/static/media/food.0afac8c449343403d8a5.png",
+    "static/media/candycrush.png": "/portfolio2024/static/media/candycrush.935946b8ebdd869a3bd1.png",
+    "static/media/collegram.png": "/portfolio2024/static/media/collegram.7837a559e3b798c87750.png",
+    "static/media/avatar.png": "/portfolio2024/static/media/avatar.23f13fbe3afdfecadf2d.png",
+    "static/media/gallerie.png": "/portfolio2024/static/media/gallerie.3f23564a0fa5f50810b0.png",
+    "static/media/about.png": "/portfolio2024/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/speel.png": "/portfolio2024/static/media/speel.e7b90f1838f1583c17b2.png",
+    "static/media/AliYamani-Resume-May2024.pdf": "/portfolio2024/static/media/AliYamani-Resume-May2024.e6e237a985a7cfae9ed4.pdf",
+    "static/media/home-bg.jpg": "/portfolio2024/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/exmell.png": "/portfolio2024/static/media/exmell.564fd2dd82295bb20551.png",
+    "static/media/pre.svg": "/portfolio2024/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio2024/index.html",
+    "main.c53bed01.css.map": "/portfolio2024/static/css/main.c53bed01.css.map",
+    "main.de2512fa.js.map": "/portfolio2024/static/js/main.de2512fa.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio2024/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio2024/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53bed01.css",
+    "static/js/main.de2512fa.js"
+  ]
+}
